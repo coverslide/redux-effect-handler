@@ -1,0 +1,15 @@
+{
+  "name": "redux-effect-handler",
+  "version": "1.0.1",
+  "description": "A simple effect handler middleware library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coverslide/redux-effect-handler"
+  },
+  "author": "Richard Hoffman <coverslide@gmail.com",
+  "license": "ISC"
+}
